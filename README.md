@@ -14,11 +14,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nicolatantera/nicolatantera/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nicolatantera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nicolatantera&icon=4&color=2)](https://visitcount.itsvg.in)
