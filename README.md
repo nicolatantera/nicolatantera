@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑🏻‍💻I'm a Passionate Frontend Developer<br>🔭 I’m currently working on my projects<br>🌱 I’m always learning 
+# Hello, World! I'm Nicola, an Italian Developer 👋🏼:
+🧑🏻‍💻I'm a Passionate Frontend Developer<br>🔭 I’m currently working on my projects<br>🌱 I’m always learning <br> 🎓 Bachelor's Degree in Computer Science
 
 
 ## 🌐 Socials:
